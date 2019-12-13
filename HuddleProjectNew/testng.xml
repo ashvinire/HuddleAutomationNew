@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Huddle">
+	<test name="Functional_UI">
+		<classes>
+			<class name="com.qa.testcases.AddTripPageTest" />
+			<class name="com.qa.testcases.HomePageTest" />
+		</classes>
+	</test>
+</suite>
